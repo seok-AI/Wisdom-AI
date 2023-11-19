@@ -2,7 +2,9 @@
 [Track 2] 2023 바이오헬스 데이터 경진대회 - 치의학 분야 (일반 부문)
 
 
-![image](https://github.com/seok-AI/Wisdom-AI/assets/85815265/abf0fe76-b02a-4993-83bd-8cddc15cdf19)
+팀 리더 설빙더아이스
+
+팀 멤버 Apollo 기여운찬후닝 판다스넘파이
 
 사전세팅/환경설정
 11.20 (월) 10:00 
