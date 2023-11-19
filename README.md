@@ -16,3 +16,7 @@
 11.27 (월) 15:00
 ~ 11.30 (목) 18:00 예정
 *사후검증 대상자에 한함
+
+
+
+![image](https://github.com/seok-AI/Wisdom-AI/assets/85815265/64a91b4b-b6c6-4590-9770-824d5de103de)
