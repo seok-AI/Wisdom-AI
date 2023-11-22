@@ -1,7 +1,7 @@
 # Wisdom-AI
 
 
-|valid mape|test mape|model|task type|hyperparameter|drop columns|
+|valid mape|test mape|model|task type|hyperparameter|drop columns| 
 |---|---|---|---|---|---|
 |???|0.5133|autogluon|Table|best_quality, num_stack: 3|filename, ID, date, weight, bmi|
 
