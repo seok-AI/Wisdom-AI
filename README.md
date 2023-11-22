@@ -1,4 +1,16 @@
 # Wisdom-AI
+
+
+|valid mape|test mape|model|hyperparameter|drop columns|
+|---|---|---|---|---|
+|0.24|???|autogluon|best_quality, num_stack: 2|filename, ID, date, weight, bmi|
+
+
+
+
+
+
+
 [Track 2] 2023 바이오헬스 데이터 경진대회 - 치의학 분야 (일반 부문)
 
 
