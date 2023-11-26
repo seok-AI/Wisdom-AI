@@ -8,7 +8,7 @@
 |HEQ.py|0.4595|swinv2 + mlp|Multimodal|HEQ|ID, date, filename|Yes|
 |Original.py|0.5721|swinv2 + mlp|Multimodal|Original|ID, date, filename|Yes|
 |PolynomialFeatures_2.py|0.4684|swinv2 + mlp|Multimodal|PolynomialFeatures(degree=2)|ID, date, filename|No|
-|PolynomialFeatures_2.py|0.5887||swinv2 + mlp|???|???|???|
+|PolynomialFeatures_2.py|0.5887||swinv2 + mlp|Multimodal|PolynomialFeatures(degree=2) + onehoyencoding|ID, date, filename|No|
 |???|???|???|???|???|???|???|
 
 
