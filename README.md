@@ -21,3 +21,4 @@
 
 
 ## Reference
+https://aiconnect.kr/competition/detail/233
