@@ -1,6 +1,11 @@
 # Wisdom-AI
 
+## Content
+1. [Performance comparison](#Performance-comparison)
+2. [competition](#weight)
+4. [Reference](#Reference)
 
+## Performance comparison
 |code|test mape|model|task type|hyperparameter|drop columns|Validation|
 |---|---|---|---|---|---|---|
 |AutoML.ipynb|0.5133|autogluon|Table|best_quality, num_stack: 3|filename, ID, date, weight, bmi|No|
@@ -8,20 +13,11 @@
 |HEQ.py|0.4595|swinv2 + mlp|Multimodal|HEQ|ID, date, filename|Yes|
 
 
-
+## competition
 [Track 2] 2023 바이오헬스 데이터 경진대회 - 치의학 분야 (일반 부문)
 
 
-
-
-사전세팅/환경설정
-11.20 (월) 10:00 
-~ 11.22 (수) 10:00
-
-대회 진행
-11.22 (수) 13:00 
-~ 11.27 (월) 13:00
-
-
-
 ![image](https://github.com/seok-AI/Wisdom-AI/assets/85815265/64a91b4b-b6c6-4590-9770-824d5de103de)
+
+
+## Reference
