@@ -6,10 +6,7 @@
 |???|0.5133|autogluon|Table|best_quality, num_stack: 3|filename, ID, date, weight, bmi|No|
 |PolynomialFeatures_2.py|0.4304|swinv2 + mlp|Multimodal|PolynomialFeatures(degree=2)|ID, date, filename|Yes|
 |HEQ.py|0.4595|swinv2 + mlp|Multimodal|HEQ|ID, date, filename|Yes|
-|Original.py|0.5721|swinv2 + mlp|Multimodal|Original|ID, date, filename|Yes|
-|PolynomialFeatures_2.py|0.4684|swinv2 + mlp|Multimodal|PolynomialFeatures(degree=2)|ID, date, filename|No|
-|PolynomialFeatures_2.py|0.5887|swinv2 + mlp|Multimodal|PolynomialFeatures(degree=2) + onehoyencoding|ID, date, filename|No|
-|???|???|???|???|???|???|???|
+
 
 
 [Track 2] 2023 바이오헬스 데이터 경진대회 - 치의학 분야 (일반 부문)
@@ -24,11 +21,6 @@
 대회 진행
 11.22 (수) 13:00 
 ~ 11.27 (월) 13:00
-
-사후검증
-11.27 (월) 15:00
-~ 11.30 (목) 18:00 예정
-*사후검증 대상자에 한함
 
 
 
